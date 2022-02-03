@@ -1,0 +1,14 @@
+{
+  "dataset_name": "MUTAG",
+  "max_to_keep":1,
+  "save_rate": 5,
+  "gpu": "0,1,2,3,4,5,6,7",
+  "num_exp": 1,
+  "exp_name": "10fold_cross_validation",
+  "batch_size": 16,
+  "optimizer": "adam",
+  "is_decay": true,
+  "_architecture": [32, 32],
+  "architecture": [8],
+  "val_exist": false
+  }
