@@ -61,14 +61,5 @@ models/invariant_basic.py
 ```
 
 
-### Related work
-
-Covariant Compositional Networks For Learning Graphs https://arxiv.org/abs/1801.02144
-Predicting molecular properties with covariant compositional networks https://aip.scitation.org/doi/10.1063/1.5024797
-The general theory of permutation equivarant neural networks and higher order graph variational encoders https://arxiv.org/abs/2004.03990
-
-### Contact
-
-Email: hytruongson@uchicago.edu
 
 
